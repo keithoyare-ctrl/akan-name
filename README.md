@@ -3,6 +3,9 @@
 
 This is a simple web application that generates an Akan name based on a user’s date of birth and gender. Akan names are traditional names from Ghana given according to the day of the week a person is born.
 
+# LIVE SITE
+https://keithoyare-ctrl.github.io/akan-name/
+
 ## Features
 Select date of birth
 
